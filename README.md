@@ -5,7 +5,10 @@
 <h1 align="center">iRxngo <span style="color: #7E3ACE">DEV</span></h1>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1240724655099219969?bg=0d1117&borderRadius=8&animated=true&hideDiscrim=true" width="400">
+  <!-- Premium Discord Presence API -->
+  <a href="https://discord.com/users/1240724655099219969">
+    <img src="https://api.rythm.fm/v1/users/discord/1240724655099219969/status?theme=dark" width="400" alt="Discord Presence">
+  </a>
 </p>
 
 <p align="center">
@@ -14,28 +17,42 @@
 
 ---
 
+## 🛠️ Core Stack
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,discord,idea,redis,mongodb,html,css,git,github,vscode">
+</p>
+
+---
+
+## 📊 Development Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iRxngo&theme=dark&bg_color=0d1117&hide_border=true&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=iRxngo&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRxngo&theme=dark&background=0d1117&hide_border=true&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" width="400">
 </p>
 
 ---
 
-## 🛠 Technologies
+### 🚀 Professional Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,discord,github,idea,git">
-</p>
+**🎮 Minecraft Ecosystem**
+- High-performance Spigot plugins
+- Redis-backed data systems
+- Custom game mechanics
+
+**🤖 Ranked BedWars Bot**
+- Python/Discord.py core
+- Auto-scoring algorithms
+- MongoDB database integration
+- Queue management systems
+
+**🌐 Web Interfaces**
+- JavaScript/HTML/CSS dashboards
+- Admin control panels
+- Real-time status monitors
 
 ---
-
-### 🔥 Highlight Projects
-- **Minecraft Plugins** (Solo Dev)
-  - Custom game systems
-  - Performance optimized
-- **Ranked BedWars Bot**
-  - Auto-score/queue systems
-  - Discord.py architecture
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iRxngo&label=Profile%20views&color=7E3ACE&style=flat" alt="iRxngo" />
