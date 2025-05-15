@@ -1,7 +1,7 @@
 # iRxngo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&background=00000000&width=435&lines=Ramin+%7C+Full-Stack+Developer;Java+%7C+Python+%7C+Discord.py;Building+awesome+things+%F0%9F%9A%80" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&background=00000000&width=435&lines=Ramin+%7C+;Java+%7C+Python+%7C+Discord.py;Building+awesome+things+%F0%9F%9A%80" alt="Typing animation">
 </p>
 
 <p align="center">
