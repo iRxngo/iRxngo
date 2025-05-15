@@ -13,7 +13,7 @@
 <!-- Discord Presence -->
 <div align="center">
   <a href="https://discord.com/users/1240724655099219969">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1240724655099219969?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20something%20brilliant...%20✨" alt="Discord Presence" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/1240724655099219969?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=:>%20✨" alt="Discord Presence" />
   </a>
 </div>
 
