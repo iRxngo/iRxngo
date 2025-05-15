@@ -3,10 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&background=00000000&width=435&lines=Ramin+%7C+Professional+Developer;Minecraft+Plugin+Specialist;Ranked+Bot+Creator" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&background=00000000&width=435&lines=Ramin+%7C+Professional+Developer;Minecraft+Plugin+Expert;Ranked+Bot+Creator" alt="Typing animation">
 </p>
 
+---
+
 <p align="center">
+  <a href="https://github.com/iRxngo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="https://discord.com/users/1240724655099219969">
     <img src="https://discord.c99.nl/widget/theme-3/1240724655099219969.png" alt="Discord Profile">
   </a>
@@ -14,21 +19,7 @@
 
 ---
 
-## 🛠️ Professional Projects
-
-### 🎮 Minecraft Plugins
-✔ **Custom Game Systems**  
-✔ **Performance Optimized**  
-✔ **Solo Developed**  
-
-### 🤖 Ranked BedWars Bot
-⚡ **Auto-Scoring System**  
-⚡ **Auto-Queue Integration**  
-⚡ **Professional Grade Architecture**  
-
----
-
-## 📊 GitHub Stats
+## 💻 Coding something brilliant...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iRxngo&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=FFFFFF&icon_color=7E3ACE&text_color=FFFFFF" width="400">
@@ -37,15 +28,24 @@
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,nodejs,discord,github,vscode,idea,git,linux,mongodb">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,discord,github,vscode,idea,git,nodejs,react,mongodb">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRxngo&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" width="400">
-</p>
+---
+
+### 🔥 Professional Projects:
+- **Minecraft Plugins** (Solo Developed)
+  - Custom game systems
+  - Performance optimized
+  - Advanced mechanics
+  
+- **Ranked BedWars Bot**
+  - Auto-scoring system
+  - Auto-queue integration
+  - Professional architecture
 
 ---
 
