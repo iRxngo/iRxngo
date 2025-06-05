@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,sqlite,mongodb,redis,discordpy,premiere,aftereffects,photoshop&perline=8&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,sqlite,mongodb,redis,discord,premiere,photoshop&perline=8&theme=dark" alt="Skills"/>
 </p>
 
 <!-- 📈 GitHub Stats -->
