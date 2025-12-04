@@ -31,8 +31,8 @@
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iRxngo&count_private=true&show_icons=true&title_color=f0f0f0&text_color=c0c0c0&icon_color=f0f0f0&border_color=2a2a2a&bg_color=1a1a1a" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=iRxngo&count_private=true&show_icons=true&title_color=f0f0f0&text_color=c0c0c0&icon_color=f0f0f0&border_color=2a2a2a&bg_color=1a1a1a&layout=compact" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=iRxngo&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ffff&icon_color=00ffff&text_color=cccccc&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRxngo&layout=donut-vertical&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ffff&text_color=cccccc&langs_count=6&exclude_repo=github-readme-stats&card_width=400" alt="Top Languages" />
 </p>
 
 <p align="center">
