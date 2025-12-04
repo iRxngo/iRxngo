@@ -30,13 +30,6 @@
   <h3 style="color:#f0f0f0;">📊 GitHub Stats</h3>
 </div>
 
-<div align="center">
-  <a href="https://github.com/iRxngo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iRxngo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&hide_border=true&ring_color=58a6ff&animate=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iRxngo&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&custom_title=Most%20Used%20Languages&animate=true" />
-  </a>
-</div>
-
 <p align="center">
   <a href="https://github.com/iRxngo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRxngo&theme=dark&hide_border=true&background=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c0c0c0" width="450px">
