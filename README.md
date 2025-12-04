@@ -30,10 +30,12 @@
   <h3 style="color:#f0f0f0;">📊 GitHub Stats</h3>
 </div>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=iRxngo&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ffff&icon_color=00ffff&text_color=cccccc&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRxngo&layout=donut-vertical&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ffff&text_color=cccccc&langs_count=6&exclude_repo=github-readme-stats&card_width=400" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/iRxngo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iRxngo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&hide_border=true&ring_color=58a6ff&animate=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iRxngo&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&custom_title=Most%20Used%20Languages&animate=true" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/iRxngo">
