@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Hi%20I'm%20iRxngo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a1e6b&height=140&section=header&text=Hi%20I'm%20iRxngo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header" />
 </div>
 
 <h1 align="center">Ramin Mardanian</h1>
@@ -9,13 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://irxngo.ir"><img src="https://img.shields.io/badge/Website-irxngo.ir-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://cloud.irxngo.ir"><img src="https://img.shields.io/badge/Cloud-cloud.irxngo.ir-00bfff?style=for-the-badge&logo=cloud&logoColor=white" alt="Personal Cloud"></a>
-  <a href="https://github.com/irxngo"><img src="https://img.shields.io/github/followers/irxngo?color=58a6ff&label=followers&logo=github&style=for-the-badge" alt="GitHub Followers"></a>
-  <a href="https://discord.com/users/1240724655099219969"><img src="https://img.shields.io/badge/Discord-irxngo-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://irxngo.ir"><img src="https://img.shields.io/badge/Website-irxngo.ir-9d4edd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/irxngo"><img src="https://img.shields.io/github/followers/irxngo?color=9d4edd&label=followers&logo=github&style=for-the-badge" alt="GitHub Followers"></a>
+  <a href="https://discord.com/users/1240724655099219969"><img src="https://img.shields.io/badge/Discord-irxngo-7b2cbf?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #58a6ff, #0d1117); margin: 30px 0;">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #9d4edd, #0d1117); margin: 30px 0;">
 
 <div align="center">
   <h3>🛠️ My Skills (Backend & Systems Focus)</h3>
@@ -33,22 +32,22 @@
 
 No frontend or web design here :) – I focus on the logic, servers, data and things that power apps/bots/plugins.
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #58a6ff, #0d1117); margin: 40px 0;">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #9d4edd, #0d1117); margin: 40px 0;">
 
 <div align="center">
   <h3>🔥 GitHub Activity</h3>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=irxngo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irxngo&theme=dracula&hide_border=true&background=0d1117&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=ffffff&dates=c9d1d9" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=irxngo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&icon_color=9d4edd&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irxngo&theme=dracula&hide_border=true&background=0d1117&stroke=ffffff&ring=9d4edd&fire=9d4edd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=ffffff&dates=c9d1d9" alt="Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=irxngo&show_icons=true&theme=dracula&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,javascript,typescript,react,vue" alt="Top Languages (Backend)" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=irxngo&show_icons=true&theme=dracula&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=9d4edd&text_color=c9d1d9&langs_count=6" alt="Top Languages (Backend)" width="40%" />
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #58a6ff, #0d1117); margin: 40px 0;">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #9d4edd, #0d1117); margin: 40px 0;">
 
 <div align="center">
   <h3>📌 Some Projects I Built</h3>
@@ -61,7 +60,7 @@ No frontend or web design here :) – I focus on the logic, servers, data and th
 
 Over 35 projects so far – mostly backend, integrations, data flows, bots, plugins and personal tools.
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #58a6ff, #0d1117); margin: 40px 0;">
+<hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #9d4edd, #0d1117); margin: 40px 0;">
 
 <div align="center">
   <h3>🎯 What I'm Working Toward</h3>
@@ -74,5 +73,5 @@ Over 35 projects so far – mostly backend, integrations, data flows, bots, plug
 > "I learn by building. Break things, fix them, understand why they work."
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=30&section=footer&text=Thanks%20for%20reading%20❤️&fontSize=18&fontColor=ffffff" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a1e6b&height=100&section=footer&text=Thanks%20for%20reading%20❤️&fontSize=18&fontColor=ffffff" width="100%" alt="Footer" />
 </div>
