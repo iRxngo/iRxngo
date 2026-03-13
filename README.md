@@ -30,7 +30,7 @@
 - Everyday – REST APIs, basic JWT/auth, CRUD operations, data handling, integrations.
 - Tools – Git (branches/PRs), Docker basics, Linux terminal, clean code habits.
 
-No frontend or web design here :) – I focus on the logic, servers, data and things that power apps/bots/plugins.
+I focus on the logic, servers, data, automations and things that power apps/bots/plugins.
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #0d1117, #9d4edd, #0d1117); margin: 40px 0;">
 
